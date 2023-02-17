@@ -11,10 +11,10 @@ Using Power Query to link and alter the data, I transformed the fictitious compa
 ### Report
 
 #### Executive Summary Page
-![](Report_Snapshots/Executive_Summary.PNG)
+![](Report_SnapShots/Executive_Summary.PNG)
 
 #### Product Details Page
-![](Report_Snapshots/Product_Details.PNG)
+![](Report_SnapShots/Product_Details.PNG)
 
 #### Customer Details Page
-![](Report_Snapshots/Customer_Details.PNG)
+![](Report_SnapShots/Customer_Details.PNG)
